@@ -1,5 +1,7 @@
 homepage: "https://www.example.com"
 documentation: "https://www.example.com/documentation"
 versions:
+  - sha: d1af9c2a35ae5acd1cb9b4b8203016aa23dc97c2
+    changeNotes: Fix structure
   - sha: 8baa655711a417577d05d7805da74ebabd12d110
     changeNotes: Initial release.
